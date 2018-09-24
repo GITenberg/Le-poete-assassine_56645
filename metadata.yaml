@@ -1,5 +1,8 @@
 _repo: Le-poete-assassine_56645
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56645-h/images/cover.jpg
 creator:
   author:
     agent_name: Apollinaire, Guillaume
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6075
     wikipedia: http://en.wikipedia.org/wiki/Guillaume_Apollinaire
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56645#Le-poete-assassine
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2018-02-26'
 gutenberg_type: Text
